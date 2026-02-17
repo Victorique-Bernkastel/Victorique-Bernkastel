@@ -1,9 +1,9 @@
-<h1 align="center">こんにちは👋、私はVictorique Bernkastel</h1>
+<h1 align="center">안녕하세요、나는Victorique Bernkastel</h1>
 <h3 align="center">봐저셔 감사합니다.</h3>
 
 <p align="left"> <a href="https://twitter.com/au2_language_kr" target="blank"><img src="https://img.shields.io/twitter/follow/au2_language_kr?logo=twitter&style=for-the-badge" alt="au2_language_kr" /></a> </p>
 
-- AviUtl2、韓国어 다운로드 사이트 [AviUtl2 한국어](https://github.com/Victorique-Bernkastel/AviUtl2_Language/releases)
+- AviUtl2한국어 다운로드 사이트 [AviUtl2 한국어](https://github.com/Victorique-Bernkastel/AviUtl2_Language/releases)
 
 - AviUtl2한국어 제작자 사이트 [AviUtl2 한국어 제작자 사이트](https://victorique-bernkastel.my.canva.site/)
 
